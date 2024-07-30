@@ -1,12 +1,11 @@
 # SessionCatnip
 
-**SessionCatnip** offers a simple and efficient way to manage, save, and restore your kitty terminal sessions.
+**SessionCatnip** offers a simple and efficient way to manage your kitty terminal sessions.
 
-## Features
+## Sessions
 
-- **Save Sessions**: Save your current kitty sessions with a command.
-- **Restore Sessions**: Easily restore your saved sessions.
 - **Simple Management**: Organize your sessions intuitively.
+- **music**: MUST have [MPD](https://www.musicpd.org/), [NCMPCPP](https://rybczak.net/ncmpcpp/) and [miniplayer](https://github.com/guardkenzie/miniplayer) (will need some configuration if it looks ugly);
 
 ## Installation
 
